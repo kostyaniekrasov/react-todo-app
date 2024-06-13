@@ -1,4 +1,4 @@
-# React todo app with Typecript and SCSS.
+# React todo app with Typescript and SCSS.
 
 - [DEMO LINK](https://kostyaniekrasov.github.io/react-todo-app/)
 
