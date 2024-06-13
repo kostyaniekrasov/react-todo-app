@@ -2,10 +2,9 @@
 
 - [DEMO LINK](https://kostyaniekrasov.github.io/react-todo-app/)
 
-## Landing Page Description
-This landing page promotes "Witch of Mountain Winds," a brand of eco-cosmetics and handcrafted candles. 
-The site highlights the use of natural ingredients, environmentally friendly packaging, and a commitment to sustainability. 
-It features various products like shampoos, oils, and candles, with an emphasis on protecting nature and supporting wildlife conservation.
+## Project Description
+This project is a React-based Todo App that allows users to manage their tasks efficiently. 
+Users can add, edit, and delete tasks, and the app uses animations for smooth transitions.
 
 ## Features
  #### Add tasks
@@ -21,8 +20,8 @@ It features various products like shampoos, oils, and candles, with an emphasis 
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ## Required Packages
-[React](react-transition-group)
-[react-transition-group](https://www.npmjs.com/package/react-transition-group)
+- [React](react-transition-group)
+- [react-transition-group](https://www.npmjs.com/package/react-transition-group)
 
 ## Installation
 
