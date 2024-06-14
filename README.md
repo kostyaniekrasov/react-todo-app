@@ -13,7 +13,12 @@ Users can add, edit, and delete tasks, and the app uses animations for smooth tr
  #### Smooth animations using react-transition-group
 
 ## What I learned
-
+#### React Basics: Components, state, props, and hooks.
+#### State Management: Handling tasks with useState and useEffect.
+#### UI Design: Responsive styling with CSS.
+#### Form Handling: Managing and validating user inputs.
+#### Package Integration: Using npm packages.
+#### Project Structure: Organizing files for maintainability.
 ## Requirements
 
 - [Node.js](https://nodejs.org/) (version 14 or higher)
